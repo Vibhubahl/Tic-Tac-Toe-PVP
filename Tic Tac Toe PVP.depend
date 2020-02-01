@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1563550608 source:e:\new folder\tic tac toe pvp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<mmsystem.h>
+
+1563550608 source:e:\tic tac toe pvp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+	<mmsystem.h>
+
